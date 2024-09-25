@@ -1,5 +1,6 @@
 # SpotifyMashupBot
 A program that utilizes Spotify's API to suggest mashup ideas based on BPMs and keys of songs found in a Spotify playlist
+- All ideas are exported as a CSV file, which can be imported into Excel/Google Sheets/etc. for customizable sorting
 
 ## Installation
 - ```pip install -r requirements.txt```
