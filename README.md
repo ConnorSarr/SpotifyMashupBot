@@ -13,3 +13,4 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="YOUR_CLIENT_ID",
                                                scope="user-library-read",
                                                open_browser=True)) #setup the Spotify app
 ```
+- Follow directions in the console for verifying the Spotify API
