@@ -2,7 +2,7 @@
 A program that utilizes Spotify's API to suggest mashup ideas based on BPMs and keys of songs found in a Spotify playlist
 
 ## Installation
-Make an application using Spotify's developer portal. Then paste the client ID and client secret in the following code:
+Make an application using Spotify's developer portal. Then paste the client ID and client secret in the following code block found in the main.py file:
 
 ```sh
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="YOUR_CLIENT_ID",
